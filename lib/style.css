@@ -1,0 +1,66 @@
+/* Add your styles here */
+
+body {
+  background-color: whitesmoke;
+}
+h1 {
+  text-align: center;
+  font-family: Verdana;
+}
+div#kutu1
+{
+  background-color: whitesmoke;
+}
+div#kutu3
+{
+  background-color: whitesmoke;
+}
+div#kutu5
+{
+  background-color: whitesmoke;
+  
+}
+div#kutu7
+{
+  background-color: whitesmoke;
+}
+div#kutu9
+{
+  background-color: whitesmoke;
+}
+div#esaskutu {
+  width: 480px;
+  height: 480px;
+  border: 5px solid black;
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box ;
+  background-color: rgb(238, 222, 222);
+  margin: auto;
+  
+}
+div.kutu{
+  align: center;
+  width: 120px;
+  height: 120px;
+  border: 2px groove black;
+  display: flex;
+ flex-wrap: wrap;
+  box-sizing: border-box ;
+  margin: auto;
+  background-color: rgb(216, 221, 216);
+  
+  
+}
+div.kutucuk{
+  width:30px;
+  height:30px;
+  border: 1px solid black;
+  border-style: outset;
+  text-align: center;
+  font-family: Verdana;
+  font-size:  x-large;
+  font-style: bold;
+  margin:auto;
+
+}
